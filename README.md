@@ -12,9 +12,9 @@
 
 
 <div align="center">
-  	<a href="#">
       <img src="https://i.imgur.com/f3iLn2b.jpg" alt="preview" />
-  	</a>
+      <img src="https://i.imgur.com/j3WHQjV.png" alt="preview" width="200px" />
+      <img src="https://i.imgur.com/wTQFgvo.png" alt="preview" width="200px" />
 </div>
 
 <p align="center">
@@ -27,3 +27,7 @@
   </p>
 
 </div>
+
+## Features
+- [x] Fully Responsive Web Page
+- [x] Toggle menu
