@@ -1,4 +1,5 @@
 let sidebar = document.getElementById('sidebar')
+let showSidebar = false;
 
 function toggleSidebar() {
     showSidebar = !showSidebar;
