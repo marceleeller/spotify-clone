@@ -1,6 +1,4 @@
 let sidebar = document.getElementById('sidebar')
-let showCase = document.getElementById('showcase')
-let showSidebar = false;
 
 function toggleSidebar() {
     showSidebar = !showSidebar;
